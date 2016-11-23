@@ -281,7 +281,7 @@
             }
           },
           "text1": "<strong>Dirección</strong><br>Calle 39 Bis B No. 29 - 25<br>Bogotá, D.C.<br>Colombia.<br><br><br>\n<strong>Contáctenos</strong><br>\nEmail: gerencia@estructurajuridica.com<br>Teléfono: (+571) 269 44 50 <br>Fax: (+571) 368 9862<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">Nosotros</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">Ramos del derecho</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">ilder</a></li></ul><p><br></p><p><br></p>"
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">La firma</a></li><li><a href=\"Servicios.html\" class=\"text-black\">Línea de servicios</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li></ul><p><br></p><p><br></p>"
         }
       ]
     },
@@ -330,6 +330,44 @@
           "title": "<i>Dr. Carlos Alberto Leal Jiménez</i>",
           "text": "<b>Perfil profesional</b>: Proyecto como profesional un perfil de idoneidad y seriedad en los objetivos a desarrollar orientando los recursos y el talento para ofrecer a nuestros usuarios productos y servicios jurídicos de excelente calidad, compartiendo los conocimientos en investigación para cumplir con los objetivos propuestos y abanderados ideando soluciones adecuadas a las necesidades presentadas por nuestros usuarios.<br><b>Perfil académico</b>: Universidad Católica de Colombia. Derecho. 2005.<br>Tesis de Grado: Composición, procedimiento y legalidad de los Tribunales de Arbitramento.<br><b>Complementarios</b>: Universidad Católica de Colombia. Mención de Honor como monitor de Consultorio Jurídico. Satélite – Sibaté.<br>Sociedad Colombiana de Arquitectos. Diplomado sobre Procedimiento Arbitral.<br>Forum Universidad de la Sabana. Principales debates entorno del Arbitraje.<br>Universidad del Rosario. Especialización en Negociación, Conciliación y Arbitraje en Proceso.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"Contactenos.html\" data-toolbar=\"-mbrBtnMove\">Contácteme</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-1m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logoporfin.gif",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Calle 39 Bis B # 29 - 25, Bogotá, Colombia.",
+              "placeId": "EiRDbC4gMzkgQmlzICMyOS0yNSwgQm9nb3TDoSwgQ29sb21iaWE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Calle 39 Bis B No. 29 - 25<br>Bogotá, D.C.<br>Colombia.<br><br><br>\n<strong>Contáctenos</strong><br>\nEmail: gerencia@estructurajuridica.com<br>Teléfono: (+571) 269 44 50 <br>Fax: (+571) 368 9862<br>",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">La firma</a></li><li><a href=\"Servicios.html\" class=\"text-black\">Línea de servicios</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li></ul><p><br></p><p><br></p>"
         },
         {
           "_inherit": "menu",
@@ -419,335 +457,6 @@
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ESTRUCTURA JURÍDICA</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Inicio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"Servicios.html\">Línea de servicios</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"Nosotros.html\">La firma</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"Contactenos.html\">Contáctenos</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "STRONG": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000"
-            },
-            "UL": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts2-p",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logoporfin.gif",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Calle 39 Bis B # 29 - 25, Bogotá, Colombia.",
-              "placeId": "EiRDbC4gMzkgQmlzICMyOS0yNSwgQm9nb3TDoSwgQ29sb21iaWE",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Dirección</strong><br>Calle 39 Bis B No. 29 - 25<br>Bogotá, D.C.<br>Colombia.<br><br><br>\n<strong>Contáctenos</strong><br>\nEmail: gerencia@estructurajuridica.com<br>Teléfono: (+571) 269 44 50 <br>Fax: (+571) 368 9862<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">Nosotros</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">Ramos del derecho</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">ilder</a></li></ul><p><br></p><p><br></p>"
-        }
-      ]
-    },
-    "ParnetZ.html": {
-      "settings": {
-        "title": "Dr. Leal.",
-        "meta_descr": "",
-        "order": 4
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_styles": {
-            ".card-block P": {
-              "text-align": "left",
-              "font-size": "16px"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "testimonial": [
-            {
-              "text": "<p><span style=\"font-size: 1.125rem; line-height: 2;\"><b>Perfil profesional</b>:&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Proyecto como profesional un perfil de idoneidad y seriedad en los objetivos a desarrollar orientando los recursos y el talento para ofrecer a nuestros usuarios productos y servicios jurídicos de excelente calidad, compartiendo los conocimientos en investigación para cumplir con los objetivos propuestos y abanderados ideando soluciones adecuadas a las necesidades presentadas por nuestros usuarios.</span></p><p><span style=\"font-size: 1.125rem; line-height: 2;\"><b>Perfil académico:</b>&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Universidad Católica de Colombia.&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Derecho. 2005</span></p><p><b>Tesis de Grado:</b> Composición, procedimiento y legalidad de los Tribunales de Arbitramento.</p><p><span style=\"font-size: 1.125rem; line-height: 2;\"><b>Complementarios:</b>&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Universidad Católica de Colombia.&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Mención de Honor como monitor de Consultorio Jurídico.&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Satélite – Sibaté</span></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">Sociedad Colombiana de Arquitectos.&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Diplomado sobre Procedimiento Arbitral</span></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">Forum Universidad de la Sabana.&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Principales debates entorno del Arbitraje</span></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">Universidad del Rosario.&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">Especialización en Negociación, Conciliación y Arbitraje&nbsp;</span><span style=\"font-size: 1.125rem; line-height: 2;\">en Proceso.</span></p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/leal50-131x160-22.png",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials1-12",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "count": "1",
-            "showImages": true,
-            "showName": false,
-            "showBio": false,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true
-          },
-          "title": "<i>Dr. Carlos Alberto Leal Jiménez</i>",
-          "subtitle": "Abogado especializado - Representante Legal"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-lead": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "header1-13",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/leal50pix-2000x1325-92.png",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "<i>Dr. Carlos Alberto Leal Jiménez</i>",
-          "text": "<b>Perfil profesional</b>: Proyecto como profesional un perfil de idoneidad y seriedad en los objetivos a desarrollar orientando los recursos y el talento para ofrecer a nuestros usuarios productos y servicios jurídicos de excelente calidad, compartiendo los conocimientos en investigación para cumplir con los objetivos propuestos y abanderados ideando soluciones adecuadas a las necesidades presentadas por nuestros usuarios.<br><b>Perfil académico</b>: Universidad Católica de Colombia. Derecho. 2005.<br>Tesis de Grado: Composición, procedimiento y legalidad de los Tribunales de Arbitramento.<br><b>Complementarios</b>: Universidad Católica de Colombia. Mención de Honor como monitor de Consultorio Jurídico. Satélite – Sibaté.<br>Sociedad Colombiana de Arquitectos. Diplomado sobre Procedimiento Arbitral.<br>Forum Universidad de la Sabana. Principales debates entorno del Arbitraje.<br>Universidad del Rosario. Especialización en Negociación, Conciliación y Arbitraje en Proceso.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_styles": {
-            "H3": {
-              "font-size": "25px"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "header2-14",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/leal50pix-2000x1325-5.png",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/leal50pix-1400x927-61.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Dr. Carlos Alberto Leal Jiménez",
-          "text": "Perfil profesional: Proyecto como profesional un perfil de idoneidad y seriedad en los objetivos a desarrollar orientando los recursos y el talento para ofrecer a nuestros usuarios productos y servicios jurídicos de excelente calidad, compartiendo los conocimientos en investigación para cumplir con los objetivos propuestos y abanderados ideando soluciones adecuadas a las necesidades presentadas por nuestros usuarios.<br><br>Perfil académico: Universidad Católica de Colombia. Derecho. 2005<br><br>Tesis de Grado: Composición, procedimiento y legalidad de los Tribunales de Arbitramento.<br><br>Complementarios: Universidad Católica de Colombia. Mención de Honor como monitor de Consultorio Jurídico. Satélite – Sibaté<br><br>Sociedad Colombiana de Arquitectos. Diplomado sobre Procedimiento Arbitral<br><br>Forum Universidad de la Sabana. Principales debates entorno del Arbitraje<br><br>Universidad del Rosario. Especialización en Negociación, Conciliación y Arbitraje en Proceso.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-15",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-0-128x128-81.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ESTRUCTURA JURÍDICA</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Inicio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"Servicios.html\">Línea de servicios</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"Nosotros.html\">La firma</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"Contactenos.html\">Contáctenos</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "STRONG": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000"
-            },
-            "UL": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts2-16",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logoporfin.gif",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Calle 39 Bis B # 29 - 25, Bogotá, Colombia.",
-              "placeId": "EiRDbC4gMzkgQmlzICMyOS0yNSwgQm9nb3TDoSwgQ29sb21iaWE",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Dirección</strong><br>Calle 39 Bis B No. 29 - 25<br>Bogotá, D.C.<br>Colombia.<br><br><br>\n<strong>Contáctenos</strong><br>\nEmail: gerencia@estructurajuridica.com<br>Teléfono: (+571) 269 44 50 <br>Fax: (+571) 368 9862<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">Nosotros</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">Ramos del derecho</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">ilder</a></li></ul><p><br></p><p><br></p>"
         }
       ]
     },
@@ -796,6 +505,44 @@
           "title": "<i>Dr. Edwin Alexander Jeréz Orjuela</i>",
           "text": "<b>Perfil profesional</b>:&nbsp;Especialista Derecho Administrativo, trámites licitatorios y contratos que aseguren el cumplimiento de los objetivos estatales en un entorno de adecuada protección jurídica; con experiencia en el sector inmobiliario y farmacéutico. Desarrollando estrategias ante las entidades Gubernamentales, entre las que contamos la Secretaria de Salud, INVIMA y las diferentes Superintendencias.<br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><b>Perfil académico</b>:&nbsp;</span>Especialista Derecho administrativo.&nbsp;De la escuela de de posgrados de la Universidad Sergio Arboleda\t<br>Conciliador de la Sociedad Colombiana Arquitectos.&nbsp;<br>Conciliador de la Cámara de Comercio de Bogotá.&nbsp;<br>Abogado con énfasis en Derecho Publico.<br>Universidad Católica de Colombia.&nbsp;<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Avaluador de Bienes Inmuebles.&nbsp;</span><br>Superintendencia de Industria y Comercio.&nbsp;<br>Docente en el Modulo de Derecho Constitucional.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"Contactenos.html\" data-toolbar=\"-mbrBtnMove\">Contácteme</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts2-1m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logoporfin.gif",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Calle 39 Bis B # 29 - 25, Bogotá, Colombia.",
+              "placeId": "EiRDbC4gMzkgQmlzICMyOS0yNSwgQm9nb3TDoSwgQ29sb21iaWE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Calle 39 Bis B No. 29 - 25<br>Bogotá, D.C.<br>Colombia.<br><br><br>\n<strong>Contáctenos</strong><br>\nEmail: gerencia@estructurajuridica.com<br>Teléfono: (+571) 269 44 50 <br>Fax: (+571) 368 9862<br>",
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">La firma</a></li><li><a href=\"Servicios.html\" class=\"text-black\">Línea de servicios</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li></ul><p><br></p><p><br></p>"
         },
         {
           "_inherit": "menu",
@@ -885,44 +632,6 @@
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ESTRUCTURA JURÍDICA</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Inicio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"Servicios.html\">Línea de servicios</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"Nosotros.html\">La firma</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"Contactenos.html\">Contáctenos</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "STRONG": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000"
-            },
-            "UL": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts2-19",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logoporfin.gif",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Calle 39 Bis B # 29 - 25, Bogotá, Colombia.",
-              "placeId": "EiRDbC4gMzkgQmlzICMyOS0yNSwgQm9nb3TDoSwgQ29sb21iaWE",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Dirección</strong><br>Calle 39 Bis B No. 29 - 25<br>Bogotá, D.C.<br>Colombia.<br><br><br>\n<strong>Contáctenos</strong><br>\nEmail: gerencia@estructurajuridica.com<br>Teléfono: (+571) 269 44 50 <br>Fax: (+571) 368 9862<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">Nosotros</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">Ramos del derecho</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">ilder</a></li></ul><p><br></p><p><br></p>"
         }
       ]
     },
@@ -1094,7 +803,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "contacts2-1b",
+          "_anchor": "contacts2-1m",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1114,7 +823,7 @@
             }
           },
           "text1": "<strong>Dirección</strong><br>Calle 39 Bis B No. 29 - 25<br>Bogotá, D.C.<br>Colombia.<br><br><br>\n<strong>Contáctenos</strong><br>\nEmail: gerencia@estructurajuridica.com<br>Teléfono: (+571) 269 44 50 <br>Fax: (+571) 368 9862<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">Nosotros</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">Ramos del derecho</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">ilder</a></li></ul><p><br></p><p><br></p>"
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">La firma</a></li><li><a href=\"Servicios.html\" class=\"text-black\">Línea de servicios</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li></ul><p><br></p><p><br></p>"
         }
       ]
     },
@@ -1283,7 +992,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "contacts2-1e",
+          "_anchor": "contacts2-1m",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1303,7 +1012,7 @@
             }
           },
           "text1": "<strong>Dirección</strong><br>Calle 39 Bis B No. 29 - 25<br>Bogotá, D.C.<br>Colombia.<br><br><br>\n<strong>Contáctenos</strong><br>\nEmail: gerencia@estructurajuridica.com<br>Teléfono: (+571) 269 44 50 <br>Fax: (+571) 368 9862<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">Nosotros</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">Ramos del derecho</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">ilder</a></li></ul><p><br></p><p><br></p>"
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">La firma</a></li><li><a href=\"Servicios.html\" class=\"text-black\">Línea de servicios</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li></ul><p><br></p><p><br></p>"
         }
       ]
     },
@@ -1656,7 +1365,7 @@
               "color": "#000000"
             }
           },
-          "_anchor": "contacts2-1h",
+          "_anchor": "contacts2-1m",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1676,7 +1385,7 @@
             }
           },
           "text1": "<strong>Dirección</strong><br>Calle 39 Bis B No. 29 - 25<br>Bogotá, D.C.<br>Colombia.<br><br><br>\n<strong>Contáctenos</strong><br>\nEmail: gerencia@estructurajuridica.com<br>Teléfono: (+571) 269 44 50 <br>Fax: (+571) 368 9862<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">Nosotros</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">Ramos del derecho</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">ilder</a></li></ul><p><br></p><p><br></p>"
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">La firma</a></li><li><a href=\"Servicios.html\" class=\"text-black\">Línea de servicios</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li></ul><p><br></p><p><br></p>"
         }
       ]
     },
@@ -1873,7 +1582,7 @@
             }
           },
           "text1": "<strong>Dirección</strong><br>Calle 39 Bis B No. 29 - 25<br>Bogotá, D.C.<br>Colombia.<br><br><br>\n<strong>Contáctenos</strong><br>\nEmail: gerencia@estructurajuridica.com<br>Teléfono: (+571) 269 44 50 <br>Fax: (+571) 368 9862<br>",
-          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">Nosotros</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">Ramos del derecho</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li><li><a class=\"text-black\" href=\"https://mobirise.com/\">ilder</a></li></ul><p><br></p><p><br></p>"
+          "text2": "<strong>Links</strong><ul><li><a class=\"text-black\" href=\"Nosotros.html\">La firma</a></li><li><a href=\"Servicios.html\" class=\"text-black\">Línea de servicios</a></li><li><a href=\"Contactenos.html\" class=\"text-black\">Contáctenos</a></li></ul><p><br></p><p><br></p>"
         }
       ]
     }
