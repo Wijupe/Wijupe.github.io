@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EJ",
-    "currentPage": "index.html",
+    "currentPage": "Contactenos.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -757,7 +757,7 @@
             "showSubTitle": true
           },
           "title": "Contáctenos",
-          "subtitle": "Por favor, diligencie la siguiente información y envíela.<br>A la mayor brevedad lo contáctarenos. Gracias.",
+          "subtitle": "Por favor, diligencie la siguiente información y envíela.<br>A la mayor brevedad lo contáctaremos. Gracias.",
           "form": {
             "action": "wjuradop@gmail.com",
             "alerts": {
