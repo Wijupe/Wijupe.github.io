@@ -25,7 +25,8 @@
     "versionPublish": "3.9.0",
     "publishType": "github",
     "path": "@PROJECT_PATH@",
-    "publishPath": "file:///C:/Users/berme/Pictures/EstructuraJur%C3%ADdica/WebSite"
+    "publishPath": "file:///C:/Users/berme/Pictures/EstructuraJur%C3%ADdica/WebSite",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -757,7 +758,7 @@
             "showSubTitle": true
           },
           "title": "Contáctenos",
-          "subtitle": "Por favor, diligencie la siguiente información y envíela.<br>A la mayor brevedad lo contáctaremos. Gracias.",
+          "subtitle": "Por favor, diligencie la siguiente información y envíela.<br>A la mayor brevedad lo contactaremos. Gracias.",
           "form": {
             "action": "wjuradop@gmail.com",
             "alerts": {
